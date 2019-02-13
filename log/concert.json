@@ -1,0 +1,314 @@
+[
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100525878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Fillmore Auditorium",
+      "country": "United States",
+      "region": "CO",
+      "city": "Denver",
+      "latitude": "39.7392358",
+      "longitude": "-104.990251"
+    },
+    "datetime": "2019-02-11T19:00:54",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100525878",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100525878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100525879?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Forum",
+      "country": "United States",
+      "region": "CA",
+      "city": "Los Angeles",
+      "latitude": "34.0522342",
+      "longitude": "-118.2436849"
+    },
+    "datetime": "2019-02-13T19:00:43",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100525879",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100525879?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100525882?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Comerica Theatre",
+      "country": "United States",
+      "region": "AZ",
+      "city": "Phoenix",
+      "latitude": "33.4489148",
+      "longitude": "-112.0793785"
+    },
+    "datetime": "2019-02-15T19:00:38",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100525882",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100525882?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100525885?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Joint at Hard Rock Hotel & Casino",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.1699412",
+      "longitude": "-115.1398296"
+    },
+    "datetime": "2019-02-16T19:00:09",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100525885",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100525885?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100700318?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Domination (May 3-4)",
+      "country": "Mexico",
+      "region": "",
+      "city": "México D.f.",
+      "latitude": "19.4040417",
+      "longitude": "-99.0895156"
+    },
+    "datetime": "2019-05-03T19:00:59",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100700318",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100700318?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100285530?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Metro Theatre",
+      "country": "Australia",
+      "region": "",
+      "city": "Sydney",
+      "latitude": "-33.8688197",
+      "longitude": "151.2092955"
+    },
+    "datetime": "2019-05-16T19:00:31",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100285530",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100285530?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100285521?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Lion Arts Factory",
+      "country": "Australia",
+      "region": "",
+      "city": "Adelaide",
+      "latitude": "-34.92849890000001",
+      "longitude": "138.6007456"
+    },
+    "datetime": "2019-05-17T19:00:42",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100285521",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100285521?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100285534?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Triffid",
+      "country": "Australia",
+      "region": "",
+      "city": "Newstead",
+      "latitude": "-27.4476365",
+      "longitude": "153.0456652"
+    },
+    "datetime": "2019-05-18T19:00:07",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100285534",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100285534?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Sold Out",
+        "url": "https://www.bandsintown.com/t/100285526?app_id=codingbootcamp&came_from=267&custom=true&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "170 Russell",
+      "country": "Australia",
+      "region": "",
+      "city": "Melbourne",
+      "latitude": "-37.8136276",
+      "longitude": "144.9630576"
+    },
+    "datetime": "2019-05-19T19:00:53",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100285526",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100285526?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100285537?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Amplifier",
+      "country": "Australia",
+      "region": "",
+      "city": "Perth",
+      "latitude": "-31.9505269",
+      "longitude": "115.8604572"
+    },
+    "datetime": "2019-05-21T19:00:08",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100285537",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100285537?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100649952?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "SM Sky Dome",
+      "country": "Philippines",
+      "region": "",
+      "city": "Quezon City",
+      "latitude": "14.6760413",
+      "longitude": "121.0437003"
+    },
+    "datetime": "2019-05-23T19:00:44",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100649952",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100649952?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/100777810?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Dos Equis Pavilion",
+      "country": "United States",
+      "region": "TX",
+      "city": "Dallas",
+      "latitude": "32.765421",
+      "longitude": "-96.7413706"
+    },
+    "datetime": "2019-05-26T19:00:48",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": [
+      "Thrice"
+    ],
+    "id": "100777810",
+    "artist_id": "191",
+    "url": "https://www.bandsintown.com/e/100777810?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  }
+]
