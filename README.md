@@ -41,11 +41,9 @@ The album that the song is from
 
 
 
-
 MOVIE-THIS
+
 node liri.js movie-this '<movie name here>'
-
-
 
 
 This will output the following information to your terminal/bash window:
@@ -58,8 +56,20 @@ This will output the following information to your terminal/bash window:
    * Language of the movie.
    * Plot of the movie.
    * Actors in the movie.
+   
+![](images/movie-this.png)
 
 
-If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'Authors
+If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+
+DO-WHAT-IT-SAYS
+
+node liri.js do-what-it-says
+
+This will output the information we have in the random.txt file, which is connected to the spotify API as well. Terminal should reflect information for "I want it that way" by the Backstreet Boys.
+
+![](images/do-what-it-says.png)
+
+Authors
 
 Sydney Volk
