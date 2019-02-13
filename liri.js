@@ -12,7 +12,7 @@ console.log(process.argv);
 
 const fs = require("fs");
 const request = require("request");
-const userInput = process.argv[2];
+var userInput = process.argv[2];
 process.argv.splice(0, 3);
 var userQuery = process.argv.join(" ");
 
@@ -94,7 +94,7 @@ function concertThis() {
 function spotifyThisSong(song) {
 
 
-    spotify.search({ type: 'track', query: song }, function (err, data) {
+    spotify.search({ type: 'track', query: song}, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
@@ -114,7 +114,7 @@ function spotifyThisSong(song) {
         } else {
             console.log("Preview: " + data.tracks.items[0].preview_url);
             console.log("Album: " + data.tracks.items[0].album.name);
-        } 
+        }
 
     });
 
@@ -134,4 +134,3 @@ function doThis() {
     });
 
 }
-
