@@ -3,32 +3,6 @@
     "offers": [
       {
         "type": "Tickets",
-        "url": "https://www.bandsintown.com/t/100525878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
-        "status": "available"
-      }
-    ],
-    "venue": {
-      "name": "The Fillmore Auditorium",
-      "country": "United States",
-      "region": "CO",
-      "city": "Denver",
-      "latitude": "39.7392358",
-      "longitude": "-104.990251"
-    },
-    "datetime": "2019-02-11T19:00:54",
-    "on_sale_datetime": "",
-    "description": "",
-    "lineup": [
-      "Thrice"
-    ],
-    "id": "100525878",
-    "artist_id": "191",
-    "url": "https://www.bandsintown.com/e/100525878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
-  },
-  {
-    "offers": [
-      {
-        "type": "Tickets",
         "url": "https://www.bandsintown.com/t/100525879?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
         "status": "available"
       }
